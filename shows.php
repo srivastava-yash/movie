@@ -19,10 +19,10 @@ session_start();
         <div class="center">
             <table class="show">
             <tr>
-                <th>Movie</th>
-                <th>Theatre</th>
-                <th>Tickets</th>
-                <th>Price</th>
+                <th>MOVIE</th>
+                <th>THEATRE</th>
+                <th>TICKETS</th>
+                <th>PRICE</th>
             </tr>
             
                 <?php
